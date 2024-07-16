@@ -17,7 +17,12 @@ A mobile application that allows teachers to efficiently manage student attendan
 
 ## Screenshots
 
- <img src="screenshots/img1.png" width="150" height="300" style="margin-right: 20px;"> <img src="screenshots/img2.png" width="150" height="300" style="margin-right: 20px;"> <img src="screenshots/img3.png" width="150" height="300" style="margin-right: 20px;"> <img src="screenshots/img4.png" width="150" height="300" style="margin-right: 20px;"> <img src="screenshots/img5.png" width="150" height="300"> 
+## Screenshots
+
+| Output Images                                   |
+|------------------------------------------------|
+| <img src="screenshots/img1.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img2.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img3.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img4.png" width="150" height="300" style="margin-right: 20px; display: inline-block;"> <img src="screenshots/img5.png" width="150" height="300" style="display: inline-block;"> |
+
 
 
 
