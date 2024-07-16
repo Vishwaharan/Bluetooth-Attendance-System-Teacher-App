@@ -15,10 +15,10 @@ A mobile application that allows teachers to efficiently manage student attendan
 - **Flutter**: For building the cross-platform mobile application.
 - **Firebase**: For backend services including real-time database, authentication, and storage.
 
-
 ## Screenshots
 
 | Output Images                                   |
-|---------------------------------------------|
-| (screenshots/img1.png) (screenshots/img2.png) (screenshots/img3.png) |
-| (screenshots/img4.png) (screenshots/img5.png)|
+|------------------------------------------------|
+| ![Image 1](screenshots/img1.png) ![Image 2](screenshots/img2.png) ![Image 3](screenshots/img3.png) |
+| ![Image 4](screenshots/img4.png) ![Image 5](screenshots/img5.png) |
+
